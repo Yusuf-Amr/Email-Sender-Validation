@@ -41,9 +41,26 @@ Install dependencies:
 Run the script:
 
     python main.py
-    
-Demo:
 
-Real World Phishing Example Source: https://x.com/phishunt_io/status/1780834586106167631
+### Demo
 
+**Real World Phishing Example:**
+
+Source: [Phishing Mail Example](https://x.com/phishunt_io/status/1780834586106167631)
+
+![The Phishing Mail Example](https://github.com/Yusuf10100/email-sender-validation/raw/main/images/phishing%20example.png)
+
+In this example, the sender domain is attempting to spoof Microsoft: `bpg-microsoft.com`.
+
+Sender IP: `217.160.14.242`
+
+We do not have the full sender address, so we use: `bpg-microsoft.com`.
+
+**Results:**
+
+1. ![Result 1](https://github.com/Yusuf10100/email-sender-validation/raw/main/images/1.png)
+
+2. ![Result 2](https://github.com/Yusuf10100/email-sender-validation/raw/main/images/2.png)
+
+3. ![Result 3](https://github.com/Yusuf10100/email-sender-validation/raw/main/images/3.png)
 
