@@ -1,0 +1,7 @@
+requests
+json
+whois
+dnspython
+pyspf
+colorama
+
