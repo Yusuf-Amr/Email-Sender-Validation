@@ -48,7 +48,7 @@ Run the script:
 
 Source: https://x.com/phishunt_io/status/1780834586106167631
 
-![The Phishing Mail Example](https://github.com/Yusuf10100/email-sender-validation/raw/main/images/phishing%20example.png)
+![The Phishing Mail Example](https://github.com/Yusuf10100/email-sender-validation/raw/main/demo_images/phishing%20example.png)
 
 In this example, the sender domain is attempting to spoof the legitimate domain of Microsoft (microsoft.com): `bpg-microsoft(.)com`.
 
@@ -58,9 +58,9 @@ We do not have the full sender address, so we use: `bpg-microsoft(.)com`.
 
 **Results:**
 
-1. ![Result 1](https://github.com/Yusuf10100/email-sender-validation/raw/main/images/1.png)
+1. ![Result 1](https://github.com/Yusuf10100/email-sender-validation/raw/main/demo_images/1.png)
 
-2. ![Result 2](https://github.com/Yusuf10100/email-sender-validation/raw/main/images/2.png)
+2. ![Result 2](https://github.com/Yusuf10100/email-sender-validation/raw/main/demo_images/2.png)
 
-3. ![Result 3](https://github.com/Yusuf10100/email-sender-validation/raw/main/images/3.png)
+3. ![Result 3](https://github.com/Yusuf10100/email-sender-validation/raw/main/demo_images/3.png)
 
