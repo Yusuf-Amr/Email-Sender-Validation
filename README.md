@@ -46,7 +46,7 @@ Run the script:
 
 **Real World Phishing Example:**
 
-Source: [Phishing Mail Example](https://x.com/phishunt_io/status/1780834586106167631)
+Source: https://x.com/phishunt_io/status/1780834586106167631
 
 ![The Phishing Mail Example](https://github.com/Yusuf10100/email-sender-validation/raw/main/images/phishing%20example.png)
 
