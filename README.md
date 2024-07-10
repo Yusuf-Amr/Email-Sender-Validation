@@ -50,11 +50,11 @@ Source: [Phishing Mail Example](https://x.com/phishunt_io/status/178083458610616
 
 ![The Phishing Mail Example](https://github.com/Yusuf10100/email-sender-validation/raw/main/images/phishing%20example.png)
 
-In this example, the sender domain is attempting to spoof Microsoft: `bpg-microsoft.com`.
+In this example, the sender domain is attempting to spoof Microsoft: `bpg-microsoft(.)com`.
 
 Sender IP: `217.160.14.242`
 
-We do not have the full sender address, so we use: `bpg-microsoft.com`.
+We do not have the full sender address, so we use: `bpg-microsoft(.)com`.
 
 **Results:**
 
