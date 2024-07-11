@@ -1,6 +1,7 @@
 Email Sender Validation Tool
 
 This Python script provides a set of tools for analyzing email-related data including SPF, DMARC, VirusTotal Domain and IP reputation, WHOIS information, and more. It's designed to assist SOC (Security Operations Center) analysts in quickly assessing the legitimacy and potential risks associated with email communications.
+
 Features
 
     - SPF Check: Validates the Sender Policy Framework (SPF) records for a domain against an IP and sender email address.
