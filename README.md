@@ -6,11 +6,12 @@ Features
 
     - SPF Check: Validates the Sender Policy Framework (SPF) records for a domain against an IP and sender email address.
 
-    - DMARC Check: Retrieves DMARC records for a domain.
-
     - VirusTotal Check: Retrieves domain-related and IP data from VirusTotal API including last DNS records, categories, and security scan results.
 
     - WHOIS Lookup: Fetches WHOIS information for a domain to ascertain ownership and registration details.
+
+    - DMARC Check (Optional): Retrieves DMARC records for a domain.
+
 
 Usage
 VirusTotal API Key Setup:
