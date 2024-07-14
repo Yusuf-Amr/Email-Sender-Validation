@@ -1,8 +1,8 @@
-Email Sender Validation Tool
+## Email Sender Validation Tool
 
 This Python script provides a set of tools for analyzing email-related data including SPF, DMARC, VirusTotal Domain and IP reputation, WHOIS information, and more. It's designed to assist SOC (Security Operations Center) analysts in quickly assessing the legitimacy and potential risks associated with email communications.
 
-Features
+## Features
 
     - SPF Check: Validates the Sender Policy Framework (SPF) records for a domain against an IP and sender email address.
 
@@ -13,14 +13,15 @@ Features
     - DMARC Check (Optional): Retrieves DMARC records for a domain.
 
 
-Usage
+## Usage
+
 VirusTotal API Key Setup:
 
     - When you run the script for the first time, it will prompt you to enter your VirusTotal API key.
     - The API key will be automatically saved in api_key.txt and will not prompt for it again in future runs.
     - To change the API key, update it directly in api_key.txt.
 
-Requirements
+## Requirements
 
     Python 3.x
     Libraries:
@@ -30,7 +31,7 @@ Requirements
         dns.resolver
         spf
         
-Installation
+## Installation
 
     Clone the repository: 
     - git clone https://github.com/Yusuf10100/email-sender-validation.git
