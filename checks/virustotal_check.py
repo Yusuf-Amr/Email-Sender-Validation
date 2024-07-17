@@ -39,7 +39,6 @@ def check_virustotal(domain, api_key):
     # Extract popularity ranks
     popularity_ranks = attributes.get("popularity_ranks", {})
 
-    # Format the output as required
     result = {
         "last_dns_records": last_dns_records,
         "malicious_count": malicious_count,
